@@ -1,2 +1,6 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
+"","4080","check list","chromium","Tue Sep 02 19:44:13 IST 2025","passed","Tue Sep 02 19:44:17 IST 2025","","hook.spec.js","",""
+"","3105","web table","chromium","Tue Sep 02 19:43:10 IST 2025","passed","Tue Sep 02 19:43:13 IST 2025","","webtable.spec.js","",""
+"","5721","add to cart","chromium","Tue Sep 02 19:44:13 IST 2025","passed","Tue Sep 02 19:44:18 IST 2025","","hook.spec.js","",""
+"","9920","xpath","chromium","Tue Sep 02 19:47:19 IST 2025","passed","Tue Sep 02 19:47:29 IST 2025","","newtask.spec.js","",""
 "","7","keyboard actions","chromium","Tue Sep 02 18:28:11 IST 2025","failed","Tue Sep 02 18:28:11 IST 2025","","keyboard.spec.js","",""
