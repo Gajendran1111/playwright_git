@@ -1,4 +1,5 @@
-const {test,expect, chromium}=require('@playwright/test')
+// const {test,expect, chromium}=require('@playwright/test')
+import {test,expect} from '@playwright/test'
 test ('multiple windows handling',async()=>{
 
     const browser =await chromium.launch()  // --> launching the chromium

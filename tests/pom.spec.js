@@ -1,4 +1,5 @@
-const {test,expect}=require('@playwright/test')
+// const {test,expect}=require('@playwright/test')
+import {test,expect} from '@playwright/test'
 import shortcut from './login'
 
 test ('page object model',async({page})=>{
